@@ -1,0 +1,7 @@
+Country='Belarus', Square='7865', Population=345, Continent='EURASIA', Capital='Minsk'
+Country='Alzhir', Square='7654', Population=3846, Continent='AFRICA', Capital='Alzhir'
+Country='China', Square='543', Population=5434, Continent='EURASIA', Capital='Pekin'
+Country='Wahington', Square='134', Population=8756, Continent='NORTHAMERICA', Capital='Washington'
+Country='Ottava', Square='234', Population=9876, Continent='NORTHAMERICA', Capital='Canada'
+Country='Russia', Square='2345', Population=98765, Continent='EURASIA', Capital='City'
+Country='NEW', Square='NEW', Population=2, Continent='NEW', Capital='NEW'

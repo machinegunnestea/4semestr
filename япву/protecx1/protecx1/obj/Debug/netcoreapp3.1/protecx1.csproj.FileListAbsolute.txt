@@ -1,0 +1,14 @@
+D:\универ\4sem\япву\protecx1\protecx1\bin\Debug\netcoreapp3.1\protecx1.exe
+D:\универ\4sem\япву\protecx1\protecx1\bin\Debug\netcoreapp3.1\protecx1.deps.json
+D:\универ\4sem\япву\protecx1\protecx1\bin\Debug\netcoreapp3.1\protecx1.runtimeconfig.json
+D:\универ\4sem\япву\protecx1\protecx1\bin\Debug\netcoreapp3.1\protecx1.runtimeconfig.dev.json
+D:\универ\4sem\япву\protecx1\protecx1\bin\Debug\netcoreapp3.1\protecx1.dll
+D:\универ\4sem\япву\protecx1\protecx1\bin\Debug\netcoreapp3.1\protecx1.pdb
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.csproj.AssemblyReference.cache
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.AssemblyInfoInputs.cache
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.AssemblyInfo.cs
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.csproj.CoreCompileInputs.cache
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.dll
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.pdb
+D:\универ\4sem\япву\protecx1\protecx1\obj\Debug\netcoreapp3.1\protecx1.genruntimeconfig.cache

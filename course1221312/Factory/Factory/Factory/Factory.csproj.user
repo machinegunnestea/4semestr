@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ManagerWindows\AddNormWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerWindows\AddPlanWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerWindows\AddProductionWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerWindows\AddProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerWindows\InputStringWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerWindows\SearchItemWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Statistics.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerWindows\AddNormWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerWindows\AddPlanWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerWindows\AddProductionWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerWindows\AddProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerWindows\InputStringWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerWindows\SearchItemWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Statistics.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

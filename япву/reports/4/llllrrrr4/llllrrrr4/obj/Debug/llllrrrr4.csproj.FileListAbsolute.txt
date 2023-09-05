@@ -1,0 +1,10 @@
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\bin\Debug\llllrrrr4.exe.config
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\bin\Debug\llllrrrr4.exe
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\bin\Debug\llllrrrr4.pdb
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.csproj.AssemblyReference.cache
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.Properties.Resources.resources
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.Train2.resources
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.csproj.GenerateResource.cache
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.csproj.CoreCompileInputs.cache
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.exe
+D:\универ\4sem\япву\reports\4\llllrrrr4\llllrrrr4\obj\Debug\llllrrrr4.pdb

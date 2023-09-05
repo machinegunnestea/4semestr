@@ -1,0 +1,23 @@
+Вариант 7
++1. Получить список клиентов, арендующих объект с номером 107.
++2. Составить список номеров объектов, по которым была заключена хотя бы
+одна сделка.
++3. Выбрать объекты, расположенные на той же улице, где живут их владельцы.
++4. Вывести номера объектов, принадлежащих владельцу И.Н. Иванову, размер
+платы по которым не больше 160 рублей.
++5. Определить имена владельцев, не заключивших ни одну сделку
+
+
+
+1) π Client.c_name sigma Object.obj_id =107 (Object⨝Client)
+1.1) π c_name ((σ Object.obj_id =107 (Object))⨝Client)
+2) pi con_num Contract
+3) sigma Object.obj_street =Owner.ow_street (Object⨝Owner)
+4) π Object.obj_id sigma Object.obj_rent <= 160 (sigma ow_name='И.Н. Иванов' (Owner⨝Object))
+4.1)(sigma ow_name='И.Н. Иванов' (Owner))⨝(σ Object.obj_rent <= 160 (Object))
+5) π ow_id (Owner) - π ow_id ((pi con_num (Contract)) ⨝(Object))
+
+5)
+DROP VIEW "main"."5)";
+CREATE VIEW "5)" AS SELECT Owner.ow_name FROM
+(Contract LEFT JOIN Owner ON Owner.ow_id = Contract.ow_id)

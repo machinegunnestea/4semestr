@@ -1,0 +1,12 @@
+D:\универ\4sem\Andrey\Notebookk\EntityData\obj\Debug\EntityData.csproj.CoreCompileInputs.cache
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityData.dll.config
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityData.dll
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityData.pdb
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityFramework.dll
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityFramework.SqlServer.dll
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityFramework.xml
+D:\универ\4sem\Andrey\Notebookk\EntityData\bin\Debug\EntityFramework.SqlServer.xml
+D:\универ\4sem\Andrey\Notebookk\EntityData\obj\Debug\EntityData.csproj.CopyComplete
+D:\универ\4sem\Andrey\Notebookk\EntityData\obj\Debug\EntityData.dll
+D:\универ\4sem\Andrey\Notebookk\EntityData\obj\Debug\EntityData.pdb
+D:\универ\4sem\Andrey\Notebookk\EntityData\obj\Debug\EntityData.csproj.AssemblyReference.cache

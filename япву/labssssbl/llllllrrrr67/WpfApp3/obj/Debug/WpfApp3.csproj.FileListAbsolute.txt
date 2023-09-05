@@ -1,0 +1,10 @@
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\Create.g.cs
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\App.g.cs
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\Create.g.cs
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\App.g.cs
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref

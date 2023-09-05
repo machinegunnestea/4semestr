@@ -1,0 +1,10 @@
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.csproj.AssemblyReference.cache
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.Form1.resources
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.Properties.Resources.resources
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.csproj.GenerateResource.cache
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.csproj.CoreCompileInputs.cache
+D:\универ\4sem\япву\labssssbl\lecture\lecture\bin\Debug\lecture.exe.config
+D:\универ\4sem\япву\labssssbl\lecture\lecture\bin\Debug\lecture.exe
+D:\универ\4sem\япву\labssssbl\lecture\lecture\bin\Debug\lecture.pdb
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.exe
+D:\универ\4sem\япву\labssssbl\lecture\lecture\obj\Debug\lecture.pdb

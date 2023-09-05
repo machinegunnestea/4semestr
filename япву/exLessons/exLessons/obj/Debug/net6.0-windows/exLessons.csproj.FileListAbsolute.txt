@@ -1,0 +1,17 @@
+E:\ЯПВУ 4 сем\exLessons\bin\Debug\net6.0-windows\exLessons.exe
+E:\ЯПВУ 4 сем\exLessons\bin\Debug\net6.0-windows\exLessons.deps.json
+E:\ЯПВУ 4 сем\exLessons\bin\Debug\net6.0-windows\exLessons.runtimeconfig.json
+E:\ЯПВУ 4 сем\exLessons\bin\Debug\net6.0-windows\exLessons.dll
+E:\ЯПВУ 4 сем\exLessons\bin\Debug\net6.0-windows\exLessons.pdb
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.csproj.AssemblyReference.cache
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.Purchase.resources
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.csproj.GenerateResource.cache
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.AssemblyInfoInputs.cache
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.AssemblyInfo.cs
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.csproj.CoreCompileInputs.cache
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.dll
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\refint\exLessons.dll
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.pdb
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\exLessons.genruntimeconfig.cache
+E:\ЯПВУ 4 сем\exLessons\obj\Debug\net6.0-windows\ref\exLessons.dll

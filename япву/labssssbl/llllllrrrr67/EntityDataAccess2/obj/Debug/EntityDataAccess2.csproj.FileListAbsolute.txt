@@ -1,0 +1,8 @@
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.csproj.AssemblyReference.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.Properties.Resources.resources
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.csproj.GenerateResource.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.csproj.CoreCompileInputs.cache
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.csproj.AssemblyReference.cache
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.Properties.Resources.resources
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.csproj.GenerateResource.cache
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\EntityDataAccess2\obj\Debug\EntityDataAccess2.csproj.CoreCompileInputs.cache

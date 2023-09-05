@@ -1,0 +1,11 @@
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess.csproj.AssemblyReference.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess1.Properties.Resources.resources
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess.csproj.GenerateResource.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess.csproj.CoreCompileInputs.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\Window1.g.cs
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess1_MarkupCompile.cache
+D:\универ\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess1_MarkupCompile.lref
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess.csproj.AssemblyReference.cache
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess1.Properties.Resources.resources
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess.csproj.GenerateResource.cache
+D:\uni\4sem\4sem\япву\labssssbl\llllllrrrr67\FileDataAccess1\obj\Debug\FileDataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\универ\4sem\abc\labs bl\11111\11111\bin\Debug\netcoreapp3.1\11111.exe
+D:\универ\4sem\abc\labs bl\11111\11111\bin\Debug\netcoreapp3.1\11111.deps.json
+D:\универ\4sem\abc\labs bl\11111\11111\bin\Debug\netcoreapp3.1\11111.runtimeconfig.json
+D:\универ\4sem\abc\labs bl\11111\11111\bin\Debug\netcoreapp3.1\11111.runtimeconfig.dev.json
+D:\универ\4sem\abc\labs bl\11111\11111\bin\Debug\netcoreapp3.1\11111.dll
+D:\универ\4sem\abc\labs bl\11111\11111\bin\Debug\netcoreapp3.1\11111.pdb
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.csproj.AssemblyReference.cache
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.GeneratedMSBuildEditorConfig.editorconfig
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.AssemblyInfoInputs.cache
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.AssemblyInfo.cs
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.csproj.CoreCompileInputs.cache
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.dll
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.pdb
+D:\универ\4sem\abc\labs bl\11111\11111\obj\Debug\netcoreapp3.1\11111.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+1) sigma Object.obj_rent < 200 (sigma Object.obj_rooms=1 (Object))
+2) pi obj_type, obj_street, obj_house, obj_rent (sigma Object.obj_type='дом' and Object.obj_rent<=Client.c_rent (Object ? (sigma Client.c_name='Ветров Д.Б.' Client)))
+3) (pi obj_id Object) - (pi con_num Contract)
+4) pi con_id, conStart, conEnd, con_num, c_id, comiss ((sigma c_name='Антонова Н.А.' Client) ? Contract)
+5) pi con_id, conStart, conEnd, con_num, c_id, comiss, c_name, obj_id, obj_type, obj_street, obj_house, obj_flat (sigma con_num = obj_id (Contract ? Client ? Object))
